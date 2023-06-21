@@ -12,8 +12,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 <!--<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~dylanblevins49/3.embed" height="525" width="100%"></iframe>-->
-<!--{% include scatter_plot.html %}-->
-htmltools::includeHTML(scatter_plot.html)
+{% include scatter_plot.html %}
+
 
 <!--## Header 2
 
