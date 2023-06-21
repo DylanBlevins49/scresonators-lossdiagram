@@ -12,10 +12,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 <!--<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~dylanblevins49/3.embed" height="525" width="100%"></iframe>-->
-{% include scatter_plot.html %}
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<!--{% include scatter_plot.html %}-->
+htmltools::includeHTML(scatter_plot.html)
 
-## Header 2
+<!--## Header 2
 
 > This is a blockquote following a header.
 >
@@ -121,4 +121,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+```-->
