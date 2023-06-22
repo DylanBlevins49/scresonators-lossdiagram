@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+# About
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.-->
 
 [**_Boulder Cryogenic Quantum Test Bed_**](https://github.com/Boulder-Cryogenic-Quantum-Testbed).
