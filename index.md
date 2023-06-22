@@ -3,8 +3,8 @@ layout: default
 ---
 # About
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.-->
-
-[**_Boulder Cryogenic Quantum Test Bed_**](https://github.com/Boulder-Cryogenic-Quantum-Testbed).
+<p>Check out our GitHub at <a href="https://github.com/Boulder-Cryogenic-Quantum-Testbed" target="_blank" rel="noopener noreferrer">Boulder Cryogenic Quantum Test Bed</a>.</p>
+<!--[**_Boulder Cryogenic Quantum Test Bed_**](https://github.com/Boulder-Cryogenic-Quantum-Testbed).-->
 
 <!--<a href="https://github.com/Boulder-Cryogenic-Quantum-Testbed">**Boulder Cryogenic Quantum Test Bed**</a>-->
 
