@@ -1,19 +1,23 @@
 ---
 layout: default
 ---
+![BCQTB](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/82b8e0b1-fccb-4f8c-986e-a7525d675bba)
+<br>
 # About
+<br>
+<p>Check out our GitHub at <a href="https://github.com/Boulder-Cryogenic-Quantum-Testbed" target="_blank" rel="noopener noreferrer">Boulder Cryogenic Quantum Test Bed</a>.</p>
 
-<p>Check out our GitHub at <a href="https://github.com/Boulder-Cryogenic-Quantum-Testbed" target="_blank" rel="noopener noreferrer">Boulder Cryogenic Quantum Test Bed</a>.</p>![BCQTB](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/82b8e0b1-fccb-4f8c-986e-a7525d675bba)
 
-
-
+<br>
+<br>
 # Loss Diagram
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~dylanblevins49/3.embed" height="525" width="130%"></iframe>
 
 
-
+<br>
+<br>
 # Dataset 
-
+<br>
 <!--SC	Reference	Dep.	Substrate	δLP (×10**−6)	Fδ0TLS (×10**−6)	g
 Nb	Gao et al. (2008c)	Not Specified	Al2O3		2.40E-06	33
 Nb	Kumar et al. (2008)	Not Specified	Si		2.94E-05	1
@@ -64,9 +68,10 @@ Ta	Shi (2022)	Sputter	Al2O3		1.00E-06	5
 Ta	Lozano (2022)	Sputter	Si		4.00E-07	4.5
 Ta	Lozano (2022)	Sputter	Si		1.00E-06	4.5-->
 ![image](https://github.com/DylanBlevins49/scresonators-lossdiagram.github.io/assets/120617602/76c1711c-c565-43e1-8770-47868e90ba55)
-
-
+<br>
+<br>
 # Sources
+<br>
 Calusine, G., Melville, A., Woods, W., Das, R., Stull, C., Bolkhovsky, V., Braje, D., Hover, D., Kim, D. K., Miloshi, X. et al., “Analysis and mitigation of interface losses in trenched superconducting coplanar waveguide resonators,” Appl. Phys. Lett. 112, 062601 (2018).<br>
 
 De Graaf, S., Faoro, L., Burnett, J., Adamyan, A., Tzalenchuk, A. Y., Kubatkin, S., Lindström, T., and Danilov, A., “Suppression of low-frequency charge noise in superconducting resonators by surface spin desorption,” Nat. Commun. 9, 1143 (2018).<br>
