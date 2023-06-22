@@ -11,13 +11,13 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Loss Diagram
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~dylanblevins49/3.embed" height="525" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~dylanblevins49/3.embed" height="525" width="130%"></iframe>
 
 
 
 ## Dataset 
 
-SC	Reference	Dep.	Substrate	δLP (×10**−6)	Fδ0TLS (×10**−6)	g
+<!--SC	Reference	Dep.	Substrate	δLP (×10**−6)	Fδ0TLS (×10**−6)	g
 Nb	Gao et al. (2008c)	Not Specified	Al2O3		2.40E-06	33
 Nb	Kumar et al. (2008)	Not Specified	Si		2.94E-05	1
 Re	Wang et al. (2009)	E-beam	Al2O3	1.00E-06		6.4
@@ -65,7 +65,7 @@ Nb	Zheng (2022)	E-beam	Si		2.90E-07	2
 TiN	Gao (2022)	Sputter	Al2O3		3.00E-07	6
 Ta	Shi (2022)	Sputter	Al2O3		1.00E-06	5
 Ta	Lozano (2022)	Sputter	Si		4.00E-07	4.5
-Ta	Lozano (2022)	Sputter	Si		1.00E-06	4.5
+Ta	Lozano (2022)	Sputter	Si		1.00E-06	4.5-->
 ![image](https://github.com/DylanBlevins49/scresonators-lossdiagram.github.io/assets/120617602/76c1711c-c565-43e1-8770-47868e90ba55)
 
 
