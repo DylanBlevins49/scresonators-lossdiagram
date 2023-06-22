@@ -117,6 +117,6 @@ Zheng K., D. Kowsari, N. J. Thobaben, X. Du, X. Song, S. Ran, E. A. Henriksen, D
 <br>
 <br>
 <br>
-<p>**Check out our GitHub at** <a href="https://github.com/Boulder-Cryogenic-Quantum-Testbed" target="_blank" rel="noopener noreferrer">Boulder Cryogenic Quantum Test Bed</a>.</p>
+<p><b>Check out our GitHub at</b><a href="https://github.com/Boulder-Cryogenic-Quantum-Testbed" target="_blank" rel="noopener noreferrer"><i>Boulder Cryogenic Quantum Test Bed</i></a>.</p>
 ![BCQTB](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/82b8e0b1-fccb-4f8c-986e-a7525d675bba)
 
