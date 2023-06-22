@@ -3,7 +3,8 @@ layout: default
 ---
 # About
 
-<p>Check out our GitHub at <a href="https://github.com/Boulder-Cryogenic-Quantum-Testbed" target="_blank" rel="noopener noreferrer">Boulder Cryogenic Quantum Test Bed</a>.</p>
+<p>Check out our GitHub at <a href="https://github.com/Boulder-Cryogenic-Quantum-Testbed" target="_blank" rel="noopener noreferrer">Boulder Cryogenic Quantum Test Bed</a>.</p>![BCQTB](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/82b8e0b1-fccb-4f8c-986e-a7525d675bba)
+
 
 
 # Loss Diagram
@@ -108,4 +109,4 @@ Wisbey, D. S., Gao, J., Vissers, M. R., da Silva, F. C. S., Kline, J. S., Vale, 
 
 Zheng K., D. Kowsari, N. J. Thobaben, X. Du, X. Song, S. Ran, E. A. Henriksen, D. S. Wisbey, K. W. Murch; Nitrogen plasma passivated niobium resonators for superconducting quantum circuits. Appl. Phys. Lett. 7 March 2022; 120 (10): 102601. <br>
 
-[SCresonators-lossdiagram-workscited.docx](https://github.com/DylanBlevins49/scresonators-lossdiagram.github.io/files/11837718/SCresonators-lossdiagram-workscited.docx)
+
