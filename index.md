@@ -66,46 +66,46 @@ Ta	Lozano (2022)	Sputter	Si		1.00E-06	4.5-->
 
 
 # Sources
-Calusine, G., Melville, A., Woods, W., Das, R., Stull, C., Bolkhovsky, V., Braje, D., Hover, D., Kim, D. K., Miloshi, X. et al., “Analysis and mitigation of interface losses in trenched superconducting coplanar waveguide resonators,” Appl. Phys. Lett. 112, 062601 (2018).
+Calusine, G., Melville, A., Woods, W., Das, R., Stull, C., Bolkhovsky, V., Braje, D., Hover, D., Kim, D. K., Miloshi, X. et al., “Analysis and mitigation of interface losses in trenched superconducting coplanar waveguide resonators,” Appl. Phys. Lett. 112, 062601 (2018).<br>
 
-De Graaf, S., Faoro, L., Burnett, J., Adamyan, A., Tzalenchuk, A. Y., Kubatkin, S., Lindström, T., and Danilov, A., “Suppression of low-frequency charge noise in superconducting resonators by surface spin desorption,” Nat. Commun. 9, 1143 (2018).
+De Graaf, S., Faoro, L., Burnett, J., Adamyan, A., Tzalenchuk, A. Y., Kubatkin, S., Lindström, T., and Danilov, A., “Suppression of low-frequency charge noise in superconducting resonators by surface spin desorption,” Nat. Commun. 9, 1143 (2018).<br>
 
-Earnest, C. T., Béjanin, J. H., McConkey, T. G., Peters, E. A., Korinek, A., Yuan, H., and Mariantoni, M., “Substrate surface engineering for high-quality silicon/aluminium superconducting resonators,” Supercond. Sci. Technol. 31, 125013 (2018).
+Earnest, C. T., Béjanin, J. H., McConkey, T. G., Peters, E. A., Korinek, A., Yuan, H., and Mariantoni, M., “Substrate surface engineering for high-quality silicon/aluminium superconducting resonators,” Supercond. Sci. Technol. 31, 125013 (2018).<br>
 
-Gao, R., Yu, W., Deng, H., Ku, H.-S., Zhisheng, L., Wang, M., Miao, X., Lin, Y., & Deng, C. (2022). Epitaxial titanium nitride microwave resonators: Structural, chemical, electrical, and microwave properties. 6(3).
+Gao, R., Yu, W., Deng, H., Ku, H.-S., Zhisheng, L., Wang, M., Miao, X., Lin, Y., & Deng, C. (2022). Epitaxial titanium nitride microwave resonators: Structural, chemical, electrical, and microwave properties. 6(3).<br>
 
-Goetz, J., Deppe, F., Haeberlein, M., Wulschner, F., Zollitsch, C. W., Meier, S., Fischer, M., Eder, P., Xie, E., Fedorov, K. G. et al., “Loss mechanisms in superconducting thin film microwave resonators,” J. Appl. Phys. 119, 015304 (2016).
+Goetz, J., Deppe, F., Haeberlein, M., Wulschner, F., Zollitsch, C. W., Meier, S., Fischer, M., Eder, P., Xie, E., Fedorov, K. G. et al., “Loss mechanisms in superconducting thin film microwave resonators,” J. Appl. Phys. 119, 015304 (2016).<br>
 
-Kowsari, D., K. Zheng, J. T. Monroe, N. J. Thobaben, X. Du, P. M. Harrington, E. A. Henriksen, D. S. Wisbey, K. W. Murch; Fabrication and surface treatment of electron-beam evaporated niobium for low-loss coplanar waveguide resonators. Appl. Phys. Lett. 27 September 2021; 119 (13): 132601.
+Kowsari, D., K. Zheng, J. T. Monroe, N. J. Thobaben, X. Du, P. M. Harrington, E. A. Henriksen, D. S. Wisbey, K. W. Murch; Fabrication and surface treatment of electron-beam evaporated niobium for low-loss coplanar waveguide resonators. Appl. Phys. Lett. 27 September 2021; 119 (13): 132601.<br>
 
-Kumar, S., Gao, J., Zmuidzinas, J., Mazin, B. A., LeDuc, H. G., and Day, P. K., “Temperature dependence of the frequency and noise of superconducting coplanar waveguide resonators,” Appl. Phys. Lett. 92(12), 123503 (2008).
+Kumar, S., Gao, J., Zmuidzinas, J., Mazin, B. A., LeDuc, H. G., and Day, P. K., “Temperature dependence of the frequency and noise of superconducting coplanar waveguide resonators,” Appl. Phys. Lett. 92(12), 123503 (2008).<br>
 
-Lock, E. H., Xu, P., Kohler, T., Camacho, L., Prestigiacomo, J., Rosen, Y. J., and Osborn, K. D., “Using surface engineering to modulate superconducting coplanar microwave resonator performance,” IEEE Trans. Appl. Supercond. 29, 1700108 (2019).
+Lock, E. H., Xu, P., Kohler, T., Camacho, L., Prestigiacomo, J., Rosen, Y. J., and Osborn, K. D., “Using surface engineering to modulate superconducting coplanar microwave resonator performance,” IEEE Trans. Appl. Supercond. 29, 1700108 (2019).<br>
 
-Lozano, D. P., M. Mongillo , X. Piao , S. Couet , D. Wan , Y. Canvel , A. M. Vadiraj , Ts. Ivanov, J. Verjauw, R. Acharya, J. Van Damme, F. A. Mohiyaddin, J. Jussot, P. P. Gowda, A. Pacco, B. Raes, J. Van de Vondel, I. P. Radu, B. Govoreanu1 J. Swerts, A. Potočnik, and K. De Greve, “Manufacturing high-Q superconducting α-tantalum resonators on silicon wafers”, (2023)
+Lozano, D. P., M. Mongillo , X. Piao , S. Couet , D. Wan , Y. Canvel , A. M. Vadiraj , Ts. Ivanov, J. Verjauw, R. Acharya, J. Van Damme, F. A. Mohiyaddin, J. Jussot, P. P. Gowda, A. Pacco, B. Raes, J. Van de Vondel, I. P. Radu, B. Govoreanu1 J. Swerts, A. Potočnik, and K. De Greve, “Manufacturing high-Q superconducting α-tantalum resonators on silicon wafers”, (2023)<br>
 
-Macha, P., van Der Ploeg, S. H. W., Oelsner, G., Il’ichev, E., Meyer, H.-G., Wünsch, S., and Siegel, M., “Losses in coplanar waveguide resonators at millikelvin temperatures,” Appl. Phys. Lett. 96(6), 062503 (2010).
+Macha, P., van Der Ploeg, S. H. W., Oelsner, G., Il’ichev, E., Meyer, H.-G., Wünsch, S., and Siegel, M., “Losses in coplanar waveguide resonators at millikelvin temperatures,” Appl. Phys. Lett. 96(6), 062503 (2010).<br>
 
-McRae, C. R. H., Béjanin, J. H., Earnest, C. T., McConkey, T. G., Rinehart, J. R., Deimert, C., Thomas, J. P., Wasilewski, Z. R., and Mariantoni, M., “Thin film metrology and microwave loss characterization of indium and aluminum/indium superconducting planar resonators,” J. Appl. Phys. 123(20), 205304 (2018).
+McRae, C. R. H., Béjanin, J. H., Earnest, C. T., McConkey, T. G., Rinehart, J. R., Deimert, C., Thomas, J. P., Wasilewski, Z. R., and Mariantoni, M., “Thin film metrology and microwave loss characterization of indium and aluminum/indium superconducting planar resonators,” J. Appl. Phys. 123(20), 205304 (2018).<br>
 
-Megrant, A., Neill, C., Barends, R., Chiaro, B., Chen, Y., Feigl, L., Kelly, J., Lucero, E., Mariantoni, M., O’Malley, P. J. J. et al., “Planar superconducting resonators with internal quality factors above one million,” Appl. Phys. Lett. 100, 113510 (2012).
+Megrant, A., Neill, C., Barends, R., Chiaro, B., Chen, Y., Feigl, L., Kelly, J., Lucero, E., Mariantoni, M., O’Malley, P. J. J. et al., “Planar superconducting resonators with internal quality factors above one million,” Appl. Phys. Lett. 100, 113510 (2012).<br>
 
-Ohya, S., Chiaro, B., Megrant, A., Neill, C., Barends, R., Chen, Y., Kelly, J., Low, D., Mutus, J., O’Malley, P. J. J. et al., “Room temperature deposition of sputtered TiN films for superconducting coplanar waveguide resonators,” Supercond. Sci. Technol. 27, 015009 (2013).
+Ohya, S., Chiaro, B., Megrant, A., Neill, C., Barends, R., Chen, Y., Kelly, J., Low, D., Mutus, J., O’Malley, P. J. J. et al., “Room temperature deposition of sputtered TiN films for superconducting coplanar waveguide resonators,” Supercond. Sci. Technol. 27, 015009 (2013).<br>
 
-Richardson, C. J. K., Siwak, N. P., Hackley, J., Keane, Z. K., Robinson, J. E., Arey, B., Arslan, I., and Palmer, B. S., “Fabrication artifacts and parallel loss channels in metamorphic epitaxial aluminum superconducting resonators,” Supercond. Sci. Technol. 29, 064003 (2016).
+Richardson, C. J. K., Siwak, N. P., Hackley, J., Keane, Z. K., Robinson, J. E., Arey, B., Arslan, I., and Palmer, B. S., “Fabrication artifacts and parallel loss channels in metamorphic epitaxial aluminum superconducting resonators,” Supercond. Sci. Technol. 29, 064003 (2016).<br>
 
-Sage, J. M., Bolkhovsky, V., Oliver, W. D., Turek, B., and Welander, P. B., “Study of loss in superconducting coplanar waveguide resonators,” J. Appl. Phys. 109, 063915 (2011).
+Sage, J. M., Bolkhovsky, V., Oliver, W. D., Turek, B., and Welander, P. B., “Study of loss in superconducting coplanar waveguide resonators,” J. Appl. Phys. 109, 063915 (2011).<br>
 
-Shi, Lili, Tingting Guo, Runfeng Su, Tianyuan Chi, Yifan Sheng, Junliang Jiang, Chunhai Cao, Jingbo Wu, Xuecou Tu, Guozhu Sun, Jian Chen, Peiheng Wu; Tantalum microwave resonators with ultra-high intrinsic quality factors. Appl. Phys. Lett. 12 December 2022; 121 (24): 242601. 
+Shi, Lili, Tingting Guo, Runfeng Su, Tianyuan Chi, Yifan Sheng, Junliang Jiang, Chunhai Cao, Jingbo Wu, Xuecou Tu, Guozhu Sun, Jian Chen, Peiheng Wu; Tantalum microwave resonators with ultra-high intrinsic quality factors. Appl. Phys. Lett. 12 December 2022; 121 (24): 242601. <br>
 
-Vissers, M. R., Gao, J., Wisbey, D. S., Hite, D. A., Tsuei, C. C., Corcoles, A. D., Steffen, M., and Pappas, D. P., “Low loss superconducting titanium nitride coplanar waveguide resonators,” Appl. Phys. Lett. 97, 232509 (2010).
+Vissers, M. R., Gao, J., Wisbey, D. S., Hite, D. A., Tsuei, C. C., Corcoles, A. D., Steffen, M., and Pappas, D. P., “Low loss superconducting titanium nitride coplanar waveguide resonators,” Appl. Phys. Lett. 97, 232509 (2010).<br>
 
-Vissers, M.R., J. Gao, D. S. Wisbey, D. A. Hite, C. C. Tsuei, A. D. Corcoles, M. Steffen, D. P. Pappas; Low loss superconducting titanium nitride coplanar waveguide resonators. Appl. Phys. Lett. 6 December 2010; 97 (23): 232509. 
+Vissers, M.R., J. Gao, D. S. Wisbey, D. A. Hite, C. C. Tsuei, A. D. Corcoles, M. Steffen, D. P. Pappas; Low loss superconducting titanium nitride coplanar waveguide resonators. Appl. Phys. Lett. 6 December 2010; 97 (23): 232509. <br>
 
-Wang, H., Hofheinz, M., Wenner, J., Ansmann, M., Bialczak, R. C., Lenander, M., Lucero, E., Neeley, M., O’Connell, A. D., Sank, D. et al., “Improving the coherence time of superconducting coplanar resonators,” Appl. Phys. Lett. 95, 233508 (2009).
+Wang, H., Hofheinz, M., Wenner, J., Ansmann, M., Bialczak, R. C., Lenander, M., Lucero, E., Neeley, M., O’Connell, A. D., Sank, D. et al., “Improving the coherence time of superconducting coplanar resonators,” Appl. Phys. Lett. 95, 233508 (2009).<br>
 
-Wisbey, D. S., Gao, J., Vissers, M. R., da Silva, F. C. S., Kline, J. S., Vale, L., and Pappas, D. P., “Effect of metal/substrate interfaces on radio-frequency loss in superconducting coplanar waveguides,” J. Appl. Phys. 108, 093918 (2010).
+Wisbey, D. S., Gao, J., Vissers, M. R., da Silva, F. C. S., Kline, J. S., Vale, L., and Pappas, D. P., “Effect of metal/substrate interfaces on radio-frequency loss in superconducting coplanar waveguides,” J. Appl. Phys. 108, 093918 (2010).<br>
 
-Zheng K., D. Kowsari, N. J. Thobaben, X. Du, X. Song, S. Ran, E. A. Henriksen, D. S. Wisbey, K. W. Murch; Nitrogen plasma passivated niobium resonators for superconducting quantum circuits. Appl. Phys. Lett. 7 March 2022; 120 (10): 102601. 
+Zheng K., D. Kowsari, N. J. Thobaben, X. Du, X. Song, S. Ran, E. A. Henriksen, D. S. Wisbey, K. W. Murch; Nitrogen plasma passivated niobium resonators for superconducting quantum circuits. Appl. Phys. Lett. 7 March 2022; 120 (10): 102601. <br>
 
 [SCresonators-lossdiagram-workscited.docx](https://github.com/DylanBlevins49/scresonators-lossdiagram.github.io/files/11837718/SCresonators-lossdiagram-workscited.docx)
