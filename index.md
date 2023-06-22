@@ -6,9 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Boulder Cryogenic Quantum Test Bed](https://github.com/Boulder-Cryogenic-Quantum-Testbed).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<a href="https://github.com/Boulder-Cryogenic-Quantum-Testbed">Boulder Cryogenic Quantum Test Bed </a>
 
 # Loss Diagram
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~dylanblevins49/3.embed" height="525" width="130%"></iframe>
