@@ -2,18 +2,18 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!--Text can be **bold**, _italic_, or ~~strikethrough~~.-->
 
-[Boulder Cryogenic Quantum Test Bed](https://github.com/Boulder-Cryogenic-Quantum-Testbed).
+[**_Boulder Cryogenic Quantum Test Bed_**](https://github.com/Boulder-Cryogenic-Quantum-Testbed).
 
-<a href="https://github.com/Boulder-Cryogenic-Quantum-Testbed">Boulder Cryogenic Quantum Test Bed </a>
+<!--<a href="https://github.com/Boulder-Cryogenic-Quantum-Testbed">**Boulder Cryogenic Quantum Test Bed**</a>-->
 
 # Loss Diagram
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~dylanblevins49/3.embed" height="525" width="130%"></iframe>
 
 
 
-## Dataset 
+# Dataset 
 
 <!--SC	Reference	Dep.	Substrate	δLP (×10**−6)	Fδ0TLS (×10**−6)	g
 Nb	Gao et al. (2008c)	Not Specified	Al2O3		2.40E-06	33
@@ -67,9 +67,9 @@ Ta	Lozano (2022)	Sputter	Si		1.00E-06	4.5-->
 ![image](https://github.com/DylanBlevins49/scresonators-lossdiagram.github.io/assets/120617602/76c1711c-c565-43e1-8770-47868e90ba55)
 
 
-<!--### Header 3
+# Sources
 
-```js
+<!--```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
