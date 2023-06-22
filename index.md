@@ -113,5 +113,10 @@ Wang, H., Hofheinz, M., Wenner, J., Ansmann, M., Bialczak, R. C., Lenander, M., 
 Wisbey, D. S., Gao, J., Vissers, M. R., da Silva, F. C. S., Kline, J. S., Vale, L., and Pappas, D. P., “Effect of metal/substrate interfaces on radio-frequency loss in superconducting coplanar waveguides,” J. Appl. Phys. 108, 093918 (2010).<br>
 
 Zheng K., D. Kowsari, N. J. Thobaben, X. Du, X. Song, S. Ran, E. A. Henriksen, D. S. Wisbey, K. W. Murch; Nitrogen plasma passivated niobium resonators for superconducting quantum circuits. Appl. Phys. Lett. 7 March 2022; 120 (10): 102601. <br>
-
+<br>
+<br>
+<br>
+<br>
+<p>**Check out our GitHub at** <a href="https://github.com/Boulder-Cryogenic-Quantum-Testbed" target="_blank" rel="noopener noreferrer">Boulder Cryogenic Quantum Test Bed</a>.</p>
+![BCQTB](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/82b8e0b1-fccb-4f8c-986e-a7525d675bba)
 
