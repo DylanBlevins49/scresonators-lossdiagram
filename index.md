@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](https://github.com/Boulder-Cryogenic-Quantum-Testbed).
+[Boulder Cryogenic Quantum Test Bed](https://github.com/Boulder-Cryogenic-Quantum-Testbed).
 
 There should be whitespace between paragraphs.
 
