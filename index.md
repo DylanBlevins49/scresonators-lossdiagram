@@ -117,7 +117,7 @@ Wang, H., Hofheinz, M., Wenner, J., Ansmann, M., Bialczak, R. C., Lenander, M., 
 
 Wisbey, D. S., Gao, J., Vissers, M. R., da Silva, F. C. S., Kline, J. S., Vale, L., and Pappas, D. P., “Effect of metal/substrate interfaces on radio-frequency loss in superconducting coplanar waveguides,” J. Appl. Phys. 108, 093918 (2010).<br>
 
-Zheng K., D. Kowsari, N. J. Thobaben, X. Du, X. Song, S. Ran, E. A. Henriksen, D. S. Wisbey, K. W. Murch; Nitrogen plasma passivated niobium resonators for superconducting quantum circuits. Appl. Phys. Lett. 7 March 2022; 120 (10): 102601. <p><b> View </b><a href="https://pubs.aip.org/aip/apl/article/120/10/102601/2833153/Nitrogen-plasma-passivated-niobium-resonators-for" target="_blank" rel="noopener noreferrer"><i>Source </i></a>.</p><br>
+Zheng K., D. Kowsari, N. J. Thobaben, X. Du, X. Song, S. Ran, E. A. Henriksen, D. S. Wisbey, K. W. Murch; Nitrogen plasma passivated niobium resonators for superconducting quantum circuits. Appl. Phys. Lett. 7 March 2022; 120 (10): 102601. <b> View </b><a href="https://pubs.aip.org/aip/apl/article/120/10/102601/2833153/Nitrogen-plasma-passivated-niobium-resonators-for" target="_blank" rel="noopener noreferrer"><i>Source </i></a>.<br>
 <br>
 <br>
 <br>
