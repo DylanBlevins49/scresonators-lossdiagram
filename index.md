@@ -3,74 +3,73 @@ layout: default
 ---
 <!--![BCQTB](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/82b8e0b1-fccb-4f8c-986e-a7525d675bba)
 <br>-->
-# About
-<!--<br>
-<p>Check out our GitHub at <a href="https://github.com/Boulder-Cryogenic-Quantum-Testbed" target="_blank" rel="noopener noreferrer">Boulder Cryogenic Quantum Test Bed</a>.</p>-->
+<p> Superconducting qubits are coherence-limited by materials losses, but the lack of comparable interlaboratory metrics is stunting progress towards lower loss devices. Here, we compile resonator loss measurements from literature and attempt to compare them by scaling loss by the gap of the coplanar waveguide resonator to account for participation of the lossy material. This resource is intended for use by researchers interested in building higher performance materials stacks for superconducting quantum devices. </p>
 
 
 <br>
 <br>
-# Loss Diagram
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~dylanblevins49/3.embed" height="525" width="130%"></iframe>
+# CPW Resonator Loss 
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~dylanblevins49/3.embed" height="700" width="130%"></iframe>
 
 
 <br>
 <br>
 # Dataset 
-<br>
-<!--SC	Reference	Dep.	Substrate	δLP (×10**−6)	Fδ0TLS (×10**−6)	g
-Nb	Gao et al. (2008c)	Not Specified	Al2O3		2.40E-06	33
-Nb	Kumar et al. (2008)	Not Specified	Si		2.94E-05	1
-Re	Wang et al. (2009)	E-beam	Al2O3	1.00E-06		6.4
-Al	Wang et al. (2009)	Sputter	Al2O3	3.00E-06		6.4
-NbTiN	Barends et al. (2010)	Sputter	Si	3.00E-06		2
-Ta	Barends et al. (2010)	Sputter	Si	3.00E-05		2
-Nb	Macha et al. (2010)	Not Specified	Al2O3		2.40E-06	30
-Nb	Macha et al. (2010)	Not Specified	Si		1.30E-06	30
-Al	Macha et al. (2010)	Not Specified	Al2O3		2.00E-06	30
-TiN	Vissers et al. (2010)	Sputter	Al2O3	3.00E-05		2
-TiN	Vissers et al. (2010)	Sputter	Al2O3	2.00E-05		2
-TiN	Vissers et al. (2010)	Sputter	Al2O3	1.00E-05		2
-TiN	Vissers et al. (2010)	Sputter	Si	2.00E-06		2
-Nb	Wisbey et al. (2010)	Not Specified	Si		1.30E-05	2
-Nb	Wisbey et al. (2010)	Not Specified	Si		7.00E-06	2
-Nb	Sage et al. (2011)	Sputter	Si		1.50E-05	5
-Nb	Sage et al. (2011)	Sputter	Al2O3		1.80E-05	5
-Al	Sage et al. (2011)	Sputter	Si		1.50E-06	5
-Al	Sage et al. (2011)	Sputter	Al2O3		1.60E-06	5
-Al	Sage et al. (2011)	MBE	Al2O3		1.80E-06	5
-Re	Sage et al. (2011)	MBE	Al2O3		1.80E-06	5
-TiN	Sage et al. (2011)	Sputter	Si		9.60E-07	5
-Al	Megrant et al. (2012)	Sputter	Al2O3	2.50E-06		2
-Al	Megrant et al. (2012)	E-beam	Al2O3	1.40E-06		2
-Al	Megrant et al. (2012)	MBE	Al2O3	5.80E-07		2
-TiN	Ohya et al. (2013)	Sputter	Si	1.00E-06		10
-Nb	Goetz et al. (2016)	Sputter	Si		9.00E-07	12
-Nb	Goetz et al. (2016)	Sputter	Al2O3		1.60E-06	12
-Al	Richardson et al. (2016)	MBE	Si		2.00E-07	12
-Al	Richardson et al. (2016)	MBE	Si		5.00E-07	12
-Al	Richardson et al. (2016)	MBE	Al2O3		5.00E-07	12
-Al	Richardson et al. (2016)	MBE	Al2O3		4.00E-07	2
-NbN	De Graaf et al. (2018)	Sputter	Al2O3		1.04E-05	2
-NbN	De Graaf et al. (2018)	Sputter	Al2O3		7.44E-06	2
-TiN	Calusine et al. (2018)	Sputter	Si		3.00E-07	11
-Al	Earnest et al. (2018)	E-beam	Si	3.10E-06	3.27E-06	9
-Al	Earnest et al. (2018)	E-beam	Si	1.90E-06	1.53E-06	9
-Al	Earnest et al. (2018)	E-beam	Si	1.80E-06	1.56E-06	9
-Al	Earnest et al. (2018)	E-beam	Si	1.20E-06	8.00E-07	9
-In	McRae et al. (2018)	Therm. Evap.	Si		4.00E-05	6
-In	McRae et al. (2018)	Therm. Evap.	Si		5.00E-05	6
-TiN	Lock et al. (2019)	Sputter	Si		2.00E-07	12
-Nb	Kowsari (2021)	E-beam	Si		3.00E-07	2
-Nb	Zheng (2022)	E-beam	Si		2.90E-07	2
-TiN	Gao (2022)	Sputter	Al2O3		3.00E-07	6
-Ta	Shi (2022)	Sputter	Al2O3		1.00E-06	5
-Ta	Lozano (2022)	Sputter	Si		4.00E-07	4.5
-Ta	Lozano (2022)	Sputter	Si		1.00E-06	4.5-->
-![image](https://github.com/DylanBlevins49/scresonators-lossdiagram.github.io/assets/120617602/76c1711c-c565-43e1-8770-47868e90ba55)
+* * *
+| SC    | Reference                | Dep.	         |Substrate	 | δLP      | Fδ0TLS   |  g (µm) |
+|:------|:-------------------------|:--------------|:----------|:---------|:---------|:--------|
+| Nb    |	Gao et al. (2008c)	     | Not Specified | Al2O3     |          | 2.40E-06 | 33      |
+| Nb    |	Kumar et al. (2008)	     | Not Specified | Si		     |          | 2.94E-05 | 1       |
+| Re    |	Wang et al. (2009)       | E-beam	       | Al2O3     | 1.00E-06	|	         | 6.4     |
+| Al    |	Wang et al. (2009)	     | Sputter	     | Al2O3     | 3.00E-06	|	         | 6.4     |
+| NbTiN |	Barends et al. (2010)	   | Sputter       | Si	       | 3.00E-06	|	         | 2       |
+| Ta    |	Barends et al. (2010)	   | Sputter	     | Si	       | 3.00E-05	|	         | 2       |
+| Nb    |	Macha et al. (2010)	     | Not Specified | Al2O3     |          | 2.40E-06 | 30      |
+| Nb    |	Macha et al. (2010)	     | Not Specified | Si        |          | 1.30E-06 | 30      |
+| Al    |	Macha et al. (2010)      | Not Specified | Al2O3     |          | 2.00E-06 | 30      |
+| TiN   |	Vissers et al. (2010)    | Sputter	     | Al2O3     | 3.00E-05	|          | 2       |
+| TiN   |	Vissers et al. (2010)	   | Sputter	     | Al2O3     | 2.00E-05	|	         | 2       |
+|TiN    | Vissers et al. (2010)	   | Sputter	     | Al2O3     | 1.00E-05	|	         | 2       |
+| TiN   |	Vissers et al. (2010)	   | Sputter	     | Si	       | 2.00E-06	|          | 2       |
+| Nb    |	Wisbey et al. (2010)	   | Not Specified | Si		     |          | 1.30E-05 | 2       |
+| Nb    | Wisbey et al. (2010)	   | Not Specified | Si		     |          | 7.00E-06 | 2       |
+| Nb    |	Sage et al. (2011)	     | Sputter       | Si		     |          | 1.50E-05 | 5       |
+| Nb	  | Sage et al. (2011)	     | Sputter	     | Al2O3     |          | 1.80E-05 | 5       |
+| Al	  | Sage et al. (2011)	     | Sputter	     | Si		     |          | 1.50E-06 | 5       |
+| Al	  | Sage et al. (2011)	     | Sputter	     | Al2O3     |          | 1.60E-06 | 5       |
+| Al	  | Sage et al. (2011)	     | MBE	         | Al2O3     |          | 1.80E-06 | 5       |
+| Re	  | Sage et al. (2011)	     | MBE	         | Al2O3     |          | 1.80E-06 | 5       |
+| TiN	  | Sage et al. (2011)	     | Sputter	     | Si		     |          | 9.60E-07 | 5       |
+| Al	  | Megrant et al. (2012)	   | Sputter       | Al2O3     | 2.50E-06	|          | 2       |
+| Al	  | Megrant et al. (2012)	   | E-beam        | Al2O3     | 1.40E-06	|	         | 2       |
+| Al	  | Megrant et al. (2012)	   | MBE           | Al2O3     | 5.80E-07	|	         | 2       |
+| TiN	  | Ohya et al. (2013)	     | Sputter	     | Si	       | 1.00E-06	|          | 10      |
+| Nb	  | Goetz et al. (2016) 	   | Sputter	     | Si	       |          | 9.00E-07 | 12      |
+| Nb	  | Goetz et al. (2016)	     | Sputter	     | Al2O3     |          | 1.60E-06 | 12      |
+| Al	  | Richardson et al. (2016) |	MBE	         | Si		     |          | 2.00E-07 | 12      |
+| Al	  | Richardson et al. (2016) |	MBE	         | Si		     |          | 5.00E-07 | 12      |
+| Al	  | Richardson et al. (2016) |	MBE	         | Al2O3     |          | 5.00E-07 | 12      |
+| Al	  | Richardson et al. (2016) |	MBE	         | Al2O3     |          | 4.00E-07 | 2       |
+| NbN	  | De Graaf et al. (2018)	 | Sputter	     | Al2O3     |          | 1.04E-05 | 2       |
+| NbN	  | De Graaf et al. (2018)	 | Sputter	     | Al2O3     |          | 7.44E-06 | 2       |
+| TiN	  | Calusine et al. (2018)	 | Sputter	     | Si        |          | 3.00E-07 | 11      |
+| Al	  | Earnest et al. (2018)	   | E-beam        | Si	       | 3.10E-06 |	3.27E-06 | 9       |
+| Al	  | Earnest et al. (2018)	   | E-beam	       | Si	       | 1.90E-06	| 1.53E-06 | 9       |
+| Al	  | Earnest et al. (2018)	   | E-beam	       | Si	       | 1.80E-06	| 1.56E-06 | 9       |
+| Al	  | Earnest et al. (2018)	   | E-beam	       | Si	       | 1.20E-06	| 8.00E-07 | 9       |
+| In	  | McRae et al. (2018)	     | Therm. Evap.	 | Si		     |          | 4.00E-05 | 6       |
+| In	  | McRae et al. (2018)	     | Therm. Evap.	 | Si		     |          | 5.00E-05 | 6       |
+| TiN	  | Lock et al. (2019)	     | Sputter	     | Si		     |          | 2.00E-07 | 12      |
+| Nb	  | Kowsari et al. (2021)	   | E-beam	       | Si		     |          | 3.00E-07 | 2       |
+| Nb	  | Zheng et al. (2022)	     | E-beam	       | Si		     |          | 2.90E-07 | 2       |
+| TiN	  | Gao et al. (2022)	       | Sputter	     | Al2O3     |	        | 3.00E-07 | 6       |
+| Ta	  | Shi et al. (2022)	       | Sputter	     | Al2O3     |	        | 1.00E-06 | 5       |
+| Ta	  | Lozano et al. (2022)	   | Sputter	     | Si		     |          | 4.00E-07 | 4.5     |
+| Ta	  | Lozano et al. (2022)	   | Sputter	     | Si		     |          | 1.00E-06 | 4.5     |
 <br>
 <br>
 # Sources
+* * *
 <br>
 Calusine, G., Melville, A., Woods, W., Das, R., Stull, C., Bolkhovsky, V., Braje, D., Hover, D., Kim, D. K., Miloshi, X. et al., “Analysis and mitigation of interface losses in trenched superconducting coplanar waveguide resonators,” Appl. Phys. Lett. 112, 062601 (2018).<br>
 
@@ -117,6 +116,7 @@ Zheng K., D. Kowsari, N. J. Thobaben, X. Du, X. Song, S. Ran, E. A. Henriksen, D
 <br>
 <br>
 <br>
+* * *
 <p><b>Check out our GitHub at </b><a href="https://github.com/Boulder-Cryogenic-Quantum-Testbed" target="_blank" rel="noopener noreferrer"><i>Boulder Cryogenic Quantum Test Bed</i></a>.</p>
 ![BCQTB](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/82b8e0b1-fccb-4f8c-986e-a7525d675bba)
 
