@@ -81,7 +81,7 @@ Calusine, G., Melville, A., Woods, W., Das, R., Stull, C., Bolkhovsky, V., Braje
 
 De Graaf, S., Faoro, L., Burnett, J., Adamyan, A., Tzalenchuk, A. Y., Kubatkin, S., Lindström, T., and Danilov, A., “Suppression of low-frequency charge noise in superconducting resonators by surface spin desorption,” Nat. Commun. 9, 1143 (2018).<a href="https://www.nature.com/articles/s41467-018-03577-2" target="_blank" rel="noopener noreferrer"><i> View Source </i></a>.<br>
 
-Earnest, C. T., Béjanin, J. H., McConkey, T. G., Peters, E. A., Korinek, A., Yuan, H., and Mariantoni, M., “Substrate surface engineering for high-quality silicon/aluminium superconducting resonators,” Supercond. Sci. Technol. 31, 125013 (2018).<a href="" target="_blank" rel="noopener noreferrer"><i> View Source </i></a>.<br>
+Earnest, C. T., Béjanin, J. H., McConkey, T. G., Peters, E. A., Korinek, A., Yuan, H., and Mariantoni, M., “Substrate surface engineering for high-quality silicon/aluminium superconducting resonators,” Supercond. Sci. Technol. 31, 125013 (2018).<a href="https://arxiv.org/abs/1807.08072" target="_blank" rel="noopener noreferrer"><i> View Source </i></a>.<br>
 
 Gao, R., Yu, W., Deng, H., Ku, H.-S., Zhisheng, L., Wang, M., Miao, X., Lin, Y., & Deng, C. (2022). Epitaxial titanium nitride microwave resonators: Structural, chemical, electrical, and microwave properties. 6(3).<a href="https://arxiv.org/abs/2111.04227" target="_blank" rel="noopener noreferrer"><i> View Source </i></a>.<br>
 
@@ -91,7 +91,7 @@ Kowsari, D., K. Zheng, J. T. Monroe, N. J. Thobaben, X. Du, P. M. Harrington, E.
 
 Kumar, S., Gao, J., Zmuidzinas, J., Mazin, B. A., LeDuc, H. G., and Day, P. K., “Temperature dependence of the frequency and noise of superconducting coplanar waveguide resonators,” Appl. Phys. Lett. 92(12), 123503 (2008).<a href="https://pubs.aip.org/aip/apl/article-abstract/92/12/123503/334498/Temperature-dependence-of-the-frequency-and-noise?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer"><i> View Source </i></a>.<br>
 
-Lock, E. H., Xu, P., Kohler, T., Camacho, L., Prestigiacomo, J., Rosen, Y. J., and Osborn, K. D., “Using surface engineering to modulate superconducting coplanar microwave resonator performance,” IEEE Trans. Appl. Supercond. 29, 1700108 (2019).<a href="" target="_blank" rel="noopener noreferrer"><i> View Source </i></a>.<br>
+Lock, E. H., Xu, P., Kohler, T., Camacho, L., Prestigiacomo, J., Rosen, Y. J., and Osborn, K. D., “Using surface engineering to modulate superconducting coplanar microwave resonator performance,” IEEE Trans. Appl. Supercond. 29, 1700108 (2019).<a href="https://ieeexplore.ieee.org/document/8606149" target="_blank" rel="noopener noreferrer"><i> View Source </i></a>.<br>
 
 Lozano, D. P., M. Mongillo , X. Piao , S. Couet , D. Wan , Y. Canvel , A. M. Vadiraj , Ts. Ivanov, J. Verjauw, R. Acharya, J. Van Damme, F. A. Mohiyaddin, J. Jussot, P. P. Gowda, A. Pacco, B. Raes, J. Van de Vondel, I. P. Radu, B. Govoreanu1 J. Swerts, A. Potočnik, and K. De Greve, “Manufacturing high-Q superconducting α-tantalum resonators on silicon wafers”, (2023)<a href="https://arxiv.org/abs/2211.16437" target="_blank" rel="noopener noreferrer"><i> View Source </i></a>.<br>
 
