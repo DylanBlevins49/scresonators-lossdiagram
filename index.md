@@ -17,7 +17,7 @@ layout: default
 <br>
 # Dataset
 * * *
-| SC    | Reference                | Dep.	         |Substrate	 | δLP      | Fδ0TLS   |  g (µm) |
+<!--| SC    | Reference                | Dep.	         |Substrate	 | δLP      | Fδ0TLS   |  g (µm) |
 |:------|:-------------------------|:--------------|:----------|:---------|:---------|:--------|
 | Nb    |	Gao et al. (2008c)	     | Not Specified | Al2O3     |          | 2.40E-06 | 33      |
 | Nb    |	Kumar et al. (2008)	     | Not Specified | Si		     |          | 2.94E-05 | 1       |
@@ -66,7 +66,59 @@ layout: default
 | TiN	  | Gao et al. (2022)	       | Sputter	     | Al2O3     |	        | 3.00E-07 | 6       |
 | Ta	  | Shi et al. (2022)	       | Sputter	     | Al2O3     |	        | 1.00E-06 | 5       |
 | Ta	  | Lozano et al. (2022)	   | Sputter	     | Si		     |          | 4.00E-07 | 4.5     |
-| Ta	  | Lozano et al. (2022)	   | Sputter	     | Si		     |          | 1.00E-06 | 4.5     |
+| Ta	  | Lozano et al. (2022)	   | Sputter	     | Si		     |          | 1.00E-06 | 4.5     |-->
+
+<!--SC	Reference	Dep.	Substrate	δLP (×10**−6)	Fδ0TLS (×10**−6)	g (µm)
+Nb	Gao et al. (2008c)	Not Specified	Al2O3		2.40E-06	33
+Nb	Kumar et al. (2008)	Not Specified	Si		2.94E-05	1
+Re	Wang et al. (2009)	E-beam	Al2O3	1.00E-06		6.4
+Al	Wang et al. (2009)	Sputter	Al2O3	3.00E-06		6.4
+NbTiN	Barends et al. (2010)	Sputter	Si	3.00E-06		2
+Ta	Barends et al. (2010)	Sputter	Si	3.00E-05		2
+Nb	Macha et al. (2010)	Not Specified	Al2O3		2.40E-06	30
+Nb	Macha et al. (2010)	Not Specified	Si		1.30E-06	30
+Al	Macha et al. (2010)	Not Specified	Al2O3		2.00E-06	30
+TiN	Vissers et al. (2010)	Sputter	Al2O3	3.00E-05		2
+TiN	Vissers et al. (2010)	Sputter	Al2O3	2.00E-05		2
+TiN	Vissers et al. (2010)	Sputter	Al2O3	1.00E-05		2
+TiN	Vissers et al. (2010)	Sputter	Si	2.00E-06		2
+Nb	Wisbey et al. (2010)	Not Specified	Si		1.30E-05	2
+Nb	Wisbey et al. (2010)	Not Specified	Si		7.00E-06	2
+Nb	Sage et al. (2011)	Sputter	Si		1.50E-05	5
+Nb	Sage et al. (2011)	Sputter	Al2O3		1.80E-05	5
+Al	Sage et al. (2011)	Sputter	Si		1.50E-06	5
+Al	Sage et al. (2011)	Sputter	Al2O3		1.60E-06	5
+Al	Sage et al. (2011)	MBE	Al2O3		1.80E-06	5
+Re	Sage et al. (2011)	MBE	Al2O3		1.80E-06	5
+TiN	Sage et al. (2011)	Sputter	Si		9.60E-07	5
+Al	Megrant et al. (2012)	Sputter	Al2O3	2.50E-06		2
+Al	Megrant et al. (2012)	E-beam	Al2O3	1.40E-06		2
+Al	Megrant et al. (2012)	MBE	Al2O3	5.80E-07		2
+TiN	Ohya et al. (2013)	Sputter	Si	1.00E-06		10
+Nb	Goetz et al. (2016)	Sputter	Si		9.00E-07	12
+Nb	Goetz et al. (2016)	Sputter	Al2O3		1.60E-06	12
+Al	Richardson et al. (2016)	MBE	Si		2.00E-07	12
+Al	Richardson et al. (2016)	MBE	Si		5.00E-07	12
+Al	Richardson et al. (2016)	MBE	Al2O3		5.00E-07	12
+Al	Richardson et al. (2016)	MBE	Al2O3		4.00E-07	2
+NbN	De Graaf et al. (2018)	Sputter	Al2O3		1.04E-05	2
+NbN	De Graaf et al. (2018)	Sputter	Al2O3		7.44E-06	2
+TiN	Calusine et al. (2018)	Sputter	Si		3.00E-07	11
+Al	Earnest et al. (2018)	E-beam	Si	3.10E-06	3.27E-06	9
+Al	Earnest et al. (2018)	E-beam	Si	1.90E-06	1.53E-06	9
+Al	Earnest et al. (2018)	E-beam	Si	1.80E-06	1.56E-06	9
+Al	Earnest et al. (2018)	E-beam	Si	1.20E-06	8.00E-07	9
+In	McRae et al. (2018)	Therm. Evap.	Si		4.00E-05	6
+In	McRae et al. (2018)	Therm. Evap.	Si		5.00E-05	6
+TiN	Lock et al. (2019)	Sputter	Si		2.00E-07	12
+Nb	Kowsari (2021)	E-beam	Si		3.00E-07	2
+Nb	Zheng (2022)	E-beam	Si		2.90E-07	2
+TiN	Gao (2022)	Sputter	Al2O3		3.00E-07	6
+Ta	Shi (2022)	Sputter	Al2O3		1.00E-06	5
+Ta	Lozano (2022)	Sputter	Si		4.00E-07	4.5
+Ta	Lozano (2022)	Sputter	Si		1.00E-06	4.5-->
+![image](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/05bd47ce-c54c-4d0d-9217-6b84f0aad62a)
+
 <br>
 <br>
 # Sources
