@@ -30,16 +30,16 @@ column-gap: 5px;
 }-->
 ![LOGOS SEE Through](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/390ab844-ebd0-4a17-91e1-c3cc5e564588)
 * * *
-<p> <b>Superconducting qubits are coherence-limited by materials losses, but the lack of comparable interlaboratory metrics is stunting progress towards lower loss devices. Here, we compile resonator loss measurements from literature and attempt to compare them by scaling loss by the gap of the coplanar waveguide resonator to account for participation of the lossy material. This resource is intended for use by researchers interested in building higher performance materials stacks for superconducting quantum devices.</b> </p>
+ Superconducting qubits are coherence-limited by materials losses, but the lack of comparable interlaboratory metrics is stunting progress towards lower loss devices. Here, we compile resonator loss measurements from literature and attempt to compare them by scaling loss by the gap of the coplanar waveguide resonator to account for participation of the lossy material. This resource is intended for use by researchers interested in building higher performance materials stacks for superconducting quantum devices.<br> This resource is based on information originally collected for:
+C. R. H. McRae, H. Wang, J. Gao, M. Vissers, T. Brecht, A. Dunsworth, D. Pappas, and J. Mutus, *Materials Loss Measurements Using Superconducting Microwave Resonators,* 091101, (2020).[ *View Reference*](https://pubs.aip.org/aip/rsi/article/91/9/091101/906092/Materials-loss-measurements-using-superconducting)
 
 
 <br>
 <br>
 # CPW Resonator Loss 
 * * *
+<p align="left"><iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" align="left" src="https://plotly.com/~dylanblevins49/3.embed" height="600" width="120%"></iframe></p>
 ![New plotly symbol legend](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/5248d3ab-a07a-4a9f-bf25-89599540bb04)
-<p align="left"><iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" align="left" src="https://plotly.com/~dylanblevins49/3.embed" height="600" width="115%"></iframe></p>
-<!--<p align="center"><iframe src="http://www.google.com/" width=500 height="500"></iframe></p>-->
 <br>
 <br>
 # Dataset
