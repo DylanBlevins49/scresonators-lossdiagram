@@ -12,7 +12,7 @@ C. R. H. McRae, H. Wang, J. Gao, M. Vissers, T. Brecht, A. Dunsworth, D. Pappas,
 <br>
 # CPW Resonator Loss 
 * * *
-<p align="left"><iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" align="left" src="https://plotly.com/~dylanblevins49/3.embed&link=false" height="500" width="100%"></iframe></p>
+<p align="left"><iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" align="left" src="https://plotly.com/~dylanblevins49/3.embed?link=false" height="500" width="100%"></iframe></p>
 ![New plotly symbol legend](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/5248d3ab-a07a-4a9f-bf25-89599540bb04)
 <br>
 <br>
