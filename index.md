@@ -15,6 +15,7 @@ layout: default
   </div>
 </div>-->
 <body>
+<div class = "parent">
 <div>
 <img src="https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/9e095206-c147-44e9-b251-aa130561769c">
 </div>
@@ -22,7 +23,11 @@ layout: default
 <img src="https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/e5a4fb56-1025-429b-b335-473f7bfc9f6b">
 </div>
 </body>
-
+.parent{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+column-gap: 5px;
+}
 
 
 ![NEW LOGOS](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/34a54718-c6e4-4df7-b57d-388c486654d1)
