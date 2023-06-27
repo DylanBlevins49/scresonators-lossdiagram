@@ -124,8 +124,9 @@ Zheng K., D. Kowsari, N. J. Thobaben, X. Du, X. Song, S. Ran, E. A. Henriksen, D
 <br>
 * * *
 <!--<p><b>Check out our GitHub at </b><a href="https://github.com/Boulder-Cryogenic-Quantum-Testbed" target="_blank" rel="noopener noreferrer"><i>Boulder Cryogenic Quantum Testbed</i></a>.</p>-->
-<p style="text-align: center;"><b>Check out our GitHub at </b><a href="https://github.com/Boulder-Cryogenic-Quantum-Testbed" target="_blank" rel="noopener noreferrer"><i>Boulder Cryogenic Quantum Testbed</i></a>.</p>
-<br> **View the Mcrae Lab Website**[here](https://www.colorado.edu/lab/mcrae/)
-<br> **View the BCGT project wesbite**[here]( https://www.nist.gov/programs-projects/boulder-cryogenic-quantum-testbed)
+<!--<p style="text-align: center;"><b>Check out our GitHub at </b><a href="https://github.com/Boulder-Cryogenic-Quantum-Testbed" target="_blank" rel="noopener noreferrer"><i>Boulder Cryogenic Quantum Testbed</i></a>.</p>-->
+<br> **View the Mcrae Lab Website**[ here](https://www.colorado.edu/lab/mcrae/)
+<br> **View the BCQT project wesbite**[ here]( https://www.nist.gov/programs-projects/boulder-cryogenic-quantum-testbed)
+<br> **View the BCQT GitHub Page**[ here](https://github.com/Boulder-Cryogenic-Quantum-Testbed)
 ![BCQTB](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/82b8e0b1-fccb-4f8c-986e-a7525d675bba)
 
