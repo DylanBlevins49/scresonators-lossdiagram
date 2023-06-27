@@ -16,12 +16,13 @@ layout: default
 </div>-->
 <body>
 <div>
-<img src="https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/34c51588-3268-4268-a8d0-c5940d346009">
+<img src="https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/9e095206-c147-44e9-b251-aa130561769c">
 </div>
 <div>
 <img src="https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/e5a4fb56-1025-429b-b335-473f7bfc9f6b">
 </div>
 </body>
+
 
 
 ![NEW LOGOS](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/34a54718-c6e4-4df7-b57d-388c486654d1)
