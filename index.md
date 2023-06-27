@@ -13,7 +13,7 @@ layout: default
   <div class="column">
     <img src="https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/e182f013-b513-490b-a707-8dc45a86408a" alt="CU Boulder" style="width:30%">
   </div>
-</div>-->
+</div>
 <body>
 <div class = "parent">
 <div>
@@ -27,7 +27,7 @@ layout: default
 display: grid;
 grid-template-columns: 1fr 1fr 1fr;
 column-gap: 5px;
-}
+}-->
 
 
 ![NEW LOGOS](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/34a54718-c6e4-4df7-b57d-388c486654d1)
