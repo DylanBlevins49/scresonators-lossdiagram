@@ -1,44 +1,18 @@
 ---
 layout: default
 ---
-<!--![removal ai _tmp-649b3bb3d9e42](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/34c51588-3268-4268-a8d0-c5940d346009)
-![removal ai _8da2c77d-1255-4551-82ba-e6fe34f9ac49](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/3c1cb023-e2ac-4594-aaa0-ce455eba280f)-->
-<!--<div class="row">
-  <div class="column">
-    <img src="https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/34c51588-3268-4268-a8d0-c5940d346009" alt="NIST" style="width:30%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/3c1cb023-e2ac-4594-aaa0-ce455eba280f" alt="BCQT" style="width:30%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/e182f013-b513-490b-a707-8dc45a86408a" alt="CU Boulder" style="width:30%">
-  </div>
-</div>
-<body>
-<div class = "parent">
-<div>
-<img src="https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/9e095206-c147-44e9-b251-aa130561769c">
-</div>
-<div>
-<img src="https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/e5a4fb56-1025-429b-b335-473f7bfc9f6b">
-</div>
-</body>
-.parent{
-display: grid;
-grid-template-columns: 1fr 1fr 1fr;
-column-gap: 5px;
-}-->
+
 ![LOGOS SEE Through](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/390ab844-ebd0-4a17-91e1-c3cc5e564588)
 * * *
  Superconducting qubits are coherence-limited by materials losses, but the lack of comparable interlaboratory metrics is stunting progress towards lower loss devices. Here, we compile resonator loss measurements from literature and attempt to compare them by scaling loss by the gap of the coplanar waveguide resonator to account for participation of the lossy material. This resource is intended for use by researchers interested in building higher performance materials stacks for superconducting quantum devices.<br> This resource is based on information originally collected for:
-C. R. H. McRae, H. Wang, J. Gao, M. Vissers, T. Brecht, A. Dunsworth, D. Pappas, and J. Mutus, *Materials Loss Measurements Using Superconducting Microwave Resonators,* 091101, (2020).[ *View Reference*](https://pubs.aip.org/aip/rsi/article/91/9/091101/906092/Materials-loss-measurements-using-superconducting)
+C. R. H. McRae, H. Wang, J. Gao, M. Vissers, T. Brecht, A. Dunsworth, D. Pappas, and J. Mutus, *Materials Loss Measurements Using Superconducting Microwave Resonators,* **091101**, (2020).[ *View Reference*](https://pubs.aip.org/aip/rsi/article/91/9/091101/906092/Materials-loss-measurements-using-superconducting)
 
 
 <br>
 <br>
 # CPW Resonator Loss 
 * * *
-<p align="left"><iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" align="left" src="https://plotly.com/~dylanblevins49/3.embed" height="600" width="120%"></iframe></p>
+<p align="left"><iframe id="igraph" scrolling="no" style="border:none;" link=true seamless="seamless" align="left" src="https://plotly.com/~dylanblevins49/3.embed" height="500" width="100%"></iframe></p>
 ![New plotly symbol legend](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/5248d3ab-a07a-4a9f-bf25-89599540bb04)
 <br>
 <br>
@@ -149,8 +123,6 @@ Zheng K., D. Kowsari, N. J. Thobaben, X. Du, X. Song, S. Ran, E. A. Henriksen, D
 <br>
 <br>
 * * *
-<!--<p><b>Check out our GitHub at </b><a href="https://github.com/Boulder-Cryogenic-Quantum-Testbed" target="_blank" rel="noopener noreferrer"><i>Boulder Cryogenic Quantum Testbed</i></a>.</p>-->
-<!--<p style="text-align: center;"><b>Check out our GitHub at </b><a href="https://github.com/Boulder-Cryogenic-Quantum-Testbed" target="_blank" rel="noopener noreferrer"><i>Boulder Cryogenic Quantum Testbed</i></a>.</p>-->
 ### Relevant Links 
 - [**McRae Lab Website**](https://www.colorado.edu/lab/mcrae/)
 - [**BCQT Project Website**](https://www.nist.gov/programs-projects/boulder-cryogenic-quantum-testbed)
