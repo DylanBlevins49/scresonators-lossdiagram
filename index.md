@@ -14,7 +14,14 @@ layout: default
     <img src="https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/e182f013-b513-490b-a707-8dc45a86408a" alt="CU Boulder" style="width:30%">
   </div>
 </div>-->
-
+<body>
+<div>
+<img src="https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/34c51588-3268-4268-a8d0-c5940d346009">
+</div>
+<div>
+<img src="https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/3c1cb023-e2ac-4594-aaa0-ce455eba280f">
+</div>
+</body>
 
 
 ![NEW LOGOS](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/34a54718-c6e4-4df7-b57d-388c486654d1)
@@ -144,7 +151,7 @@ Zheng K., D. Kowsari, N. J. Thobaben, X. Du, X. Song, S. Ran, E. A. Henriksen, D
 - [**McRae Lab Website**](https://www.colorado.edu/lab/mcrae/)
 - [**BCQT Project Website**](https://www.nist.gov/programs-projects/boulder-cryogenic-quantum-testbed)
 - [**BCQT GitHub Page**](https://github.com/Boulder-Cryogenic-Quantum-Testbed)<br>
-###       ![NOBG BCQT](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/e5a4fb56-1025-429b-b335-473f7bfc9f6b)
+![NOBG BCQT](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/e5a4fb56-1025-429b-b335-473f7bfc9f6b)
 
 
 
