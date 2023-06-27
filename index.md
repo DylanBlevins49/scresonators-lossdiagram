@@ -129,6 +129,5 @@ Zheng K., D. Kowsari, N. J. Thobaben, X. Du, X. Song, S. Ran, E. A. Henriksen, D
 - [**McRae Lab Website**](https://www.colorado.edu/lab/mcrae/)
 - [**BCQT Project Website**](https://www.nist.gov/programs-projects/boulder-cryogenic-quantum-testbed)
 - [**BCQT GitHub Page**](https://github.com/Boulder-Cryogenic-Quantum-Testbed)
-![BCQTB smaller](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/a072e5e1-1dd8-405a-9227-a55d26ab52d1)
-
+![BCQTB even smaller](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/d9c53674-4500-4f94-9505-aa0bc727ca01)
 
