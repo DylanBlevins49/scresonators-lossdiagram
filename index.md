@@ -5,15 +5,16 @@ layout: default
 ![removal ai _8da2c77d-1255-4551-82ba-e6fe34f9ac49](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/3c1cb023-e2ac-4594-aaa0-ce455eba280f)-->
 <div class="row">
   <div class="column">
-    <img src="https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/34c51588-3268-4268-a8d0-c5940d346009" alt="NIST" style="width:40%">
+    <img src="https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/34c51588-3268-4268-a8d0-c5940d346009" alt="NIST" style="width:30%">
   </div>
   <div class="column">
-    <img src="https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/3c1cb023-e2ac-4594-aaa0-ce455eba280f" alt="BCQT" style="width:40%">
+    <img src="https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/3c1cb023-e2ac-4594-aaa0-ce455eba280f" alt="BCQT" style="width:30%">
   </div>
   <div class="column">
-    <img src="https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/34a54718-c6e4-4df7-b57d-388c486654d1" alt="CU Boulder" style="width:40%">
+    <img src="https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/e182f013-b513-490b-a707-8dc45a86408a" alt="CU Boulder" style="width:30%">
   </div>
 </div>
+
 
 
 ![NEW LOGOS](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/34a54718-c6e4-4df7-b57d-388c486654d1)
