@@ -19,7 +19,7 @@ layout: default
 <img src="https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/34c51588-3268-4268-a8d0-c5940d346009">
 </div>
 <div>
-<img src="https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/3c1cb023-e2ac-4594-aaa0-ce455eba280f">
+<img src="https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/e5a4fb56-1025-429b-b335-473f7bfc9f6b">
 </div>
 </body>
 
