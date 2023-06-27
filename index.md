@@ -12,7 +12,7 @@ layout: default
 # CPW Resonator Loss 
 * * *
 ![New plotly symbol legend](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/5248d3ab-a07a-4a9f-bf25-89599540bb04)
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" align=center src="https://plotly.com/~dylanblevins49/3.embed" height="650" width="136%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" align="center" src="https://plotly.com/~dylanblevins49/3.embed" height="650" width="136%"></iframe>
 
 <br>
 <br>
