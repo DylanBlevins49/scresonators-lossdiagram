@@ -38,7 +38,7 @@ column-gap: 5px;
 # CPW Resonator Loss 
 * * *
 ![New plotly symbol legend](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/5248d3ab-a07a-4a9f-bf25-89599540bb04)
-<p align="left"><iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" align="center" src="https://plotly.com/~dylanblevins49/3.embed" height="650" width="136%"></iframe></p>
+<p align="left"><iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" align="left" src="https://plotly.com/~dylanblevins49/3.embed" height="600" width="115%"></iframe></p>
 <!--<p align="center"><iframe src="http://www.google.com/" width=500 height="500"></iframe></p>-->
 <br>
 <br>
