@@ -4,7 +4,7 @@ layout: default
 
 ![LOGOS SEE Through](https://github.com/DylanBlevins49/scresonators-lossdiagram/assets/120617602/390ab844-ebd0-4a17-91e1-c3cc5e564588)
 * * *
- Superconducting qubits are coherence-limited by materials losses, but the lack of comparable interlaboratory metrics is stunting progress towards lower loss devices. Here, we compile resonator loss measurements from literature and attempt to compare them by scaling loss by the gap of the coplanar waveguide resonator to account for participation of the lossy material. This resource is intended for use by researchers interested in building higher performance materials stacks for superconducting quantum devices.<br> This resource is based on information originally collected for:
+ Superconducting qubits are coherence-limited by materials losses, but the lack of comparable interlaboratory metrics is stunting progress towards lower loss devices. Here, we compile resonator loss measurements from literature and attempt to compare them by scaling loss by the gap of the coplanar waveguide resonator to account for participation of the lossy material. This resource is intended for use by researchers interested in building higher performance materials stacks for superconducting quantum devices.This resource is based on information originally collected for:<br>
 C. R. H. McRae, H. Wang, J. Gao, M. Vissers, T. Brecht, A. Dunsworth, D. Pappas, and J. Mutus, *Materials Loss Measurements Using Superconducting Microwave Resonators,* **091101**, (2020).[ *View Reference*](https://pubs.aip.org/aip/rsi/article/91/9/091101/906092/Materials-loss-measurements-using-superconducting)
 
 
